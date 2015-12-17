@@ -1,3 +1,8 @@
 ---
   username:xiahao
-  password:aaa
+  key:123
+
+
+
+ipaddress:10.156.75.4
+storage:vsan
